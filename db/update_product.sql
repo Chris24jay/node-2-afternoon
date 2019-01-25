@@ -1,0 +1,1 @@
+update product set description =$2 where produc_id =$1;
